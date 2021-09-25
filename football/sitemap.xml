@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://0.0.0.0:4000/football/2021/09/25/a-common-ground-for-amateur-football.html</loc>
+<loc>/football/2021/09/25/a-common-ground-for-amateur-football.html</loc>
 <lastmod>2021-09-25T00:00:00+00:00</lastmod>
 </url>
 <url>
-<loc>http://0.0.0.0:4000/football/about.html</loc>
+<loc>/football/about.html</loc>
 </url>
 <url>
-<loc>http://0.0.0.0:4000/football/archive.html</loc>
+<loc>/football/archive.html</loc>
 </url>
 <url>
-<loc>http://0.0.0.0:4000/football/</loc>
+<loc>/football/</loc>
 </url>
 </urlset>
