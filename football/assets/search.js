@@ -1,1 +1,1 @@
-window.TEXT_SEARCH_DATA={'posts':[{'title':"A common ground for amateur football",'url':"/football/2021/09/25/a-common-ground-for-amateur-football.html"}]};
+window.TEXT_SEARCH_DATA={'posts':[{'title':"A common ground for amateur football",'url':"/football/2021/09/25/a-common-ground-for-amateur-football.html"},{'title':"Expectations for a Junior Football Journey",'url':"/football/2022/06/07/expectations-for-a-junior-football-journey.html"}]};
