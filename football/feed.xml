@@ -1,5 +1,35 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="/football/feed.xml" rel="self" type="application/atom+xml" /><link href="/football/" rel="alternate" type="text/html" hreflang="en" /><updated>2022-06-08T01:13:26+12:00</updated><id>/football/feed.xml</id><title type="html">Football Notes</title><subtitle>Notes taken on journet as an amateur football player and coach.
-</subtitle><author><name>Roberto Allende</name></author><entry><title type="html">Expectations for a Junior Football Journey</title><link href="/football/2022/06/07/expectations-for-a-junior-football-journey.html" rel="alternate" type="text/html" title="Expectations for a Junior Football Journey" /><published>2022-06-07T00:00:00+12:00</published><updated>2022-06-07T00:00:00+12:00</updated><id>/football/2022/06/07/expectations-for-a-junior-football-journey</id><content type="html" xml:base="/football/2022/06/07/expectations-for-a-junior-football-journey.html"><![CDATA[<p>A child dribbles the ball and breaks the opponent’s defence and now he/she is in front of the goalkeeper and has to resolve the situation in a few milliseconds.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="/football/feed.xml" rel="self" type="application/atom+xml" /><link href="/football/" rel="alternate" type="text/html" hreflang="en" /><updated>2022-07-09T22:27:22+12:00</updated><id>/football/feed.xml</id><title type="html">Football Notes</title><subtitle>Notes taken on journet as an amateur football player and coach.
+</subtitle><author><name>Roberto Allende</name></author><entry><title type="html">Introducing Astuten</title><link href="/football/2022/07/08/introducing-astuten.html" rel="alternate" type="text/html" title="Introducing Astuten" /><published>2022-07-08T00:00:00+12:00</published><updated>2022-07-08T00:00:00+12:00</updated><id>/football/2022/07/08/introducing-astuten</id><content type="html" xml:base="/football/2022/07/08/introducing-astuten.html"><![CDATA[<p>As a grassroots football coach I want to make sure I give fair playing time to every player on my team. That’s why I used to spend hours planning game subs.</p>
+
+<!--more-->
+
+<hr />
+
+<p>Planning subs is not easy because it’s not just about playing time. You also want to rotate positions but not that often. You want to optimise learning opportunities given the difficulty an opponents provides and so on.</p>
+
+<p>More than once occasion, I showed up to a match with perfect plan just to get a phone call from a parent telling me that his child couldn’t play that day and now I had came up with new plan in just few minutes.</p>
+
+<p>Every time I made a plan or I had to make a last minute adjustment I thought the must be a better way to do this.</p>
+
+<p>And that’s why I developed <a href="http://astuten.io">Astuten</a>.</p>
+
+<p>Astuten has three simple goals:</p>
+
+<ul>
+  <li>Allow coaches to make player substitution plans in seconds.</li>
+  <li>Manage and follow lineups in real-time during matches.</li>
+  <li>All in one app and across all your web browsers and devices.</li>
+</ul>
+
+<p>Are you curious? watch the demo video below and <a href="https://docs.google.com/forms/d/e/1FAIpQLSfTtaY7r3weo9R1vck9kZiDV991VF7vDHy3X1qVdC5DwYwdIQ/viewform">join the beta</a> to try it yourself.</p>
+
+<iframe width="840" height="630" src="http://www.youtube.com/embed/ayRMwlBseJg" frameborder="0" allowfullscreen=""></iframe>
+
+<p>Astuten is a live project so, if you find a feature that the app must have, don’t hesitate to write me. I want to make Astuten as much as useful for you as it’s for myself.</p>
+
+<hr />
+
+<div class="fb-comments" data-href="https://en.allende.nz/football/2022/07/09/introducing-astuten.html" data-width="720" data-numposts="10"></div>]]></content><author><name>Roberto Allende</name></author><category term="Coach" /><category term="Lineup" /><category term="MobileApp" /><category term="Astuten" /><summary type="html"><![CDATA[As a grassroots football coach I want to make sure I give fair playing time to every player on my team. That’s why I used to spend hours planning game subs.]]></summary></entry><entry><title type="html">Expectations for a Junior Football Journey</title><link href="/football/2022/06/07/expectations-for-a-junior-football-journey.html" rel="alternate" type="text/html" title="Expectations for a Junior Football Journey" /><published>2022-06-07T00:00:00+12:00</published><updated>2022-06-07T00:00:00+12:00</updated><id>/football/2022/06/07/expectations-for-a-junior-football-journey</id><content type="html" xml:base="/football/2022/06/07/expectations-for-a-junior-football-journey.html"><![CDATA[<p>A child dribbles the ball and breaks the opponent’s defence and now he/she is in front of the goalkeeper and has to resolve the situation in a few milliseconds.</p>
 
 <p>The player misses. Is it bad?. The player scores. Is it good?.</p>
 
