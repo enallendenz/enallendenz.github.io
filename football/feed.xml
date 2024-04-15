@@ -1,316 +1,393 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="/football/feed.xml" rel="self" type="application/atom+xml" /><link href="/football/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-06-04T17:17:07+12:00</updated><id>/football/feed.xml</id><title type="html">Football Notes</title><subtitle>Notes taken on journet as an amateur football player and coach.
-</subtitle><author><name>Roberto Allende</name></author><entry><title type="html">Beyond the Joystick. Empowering Players’ Autonomy and Creativity in Football</title><link href="/football/2023/06/04/beyond-the-joystick.html" rel="alternate" type="text/html" title="Beyond the Joystick. Empowering Players’ Autonomy and Creativity in Football" /><published>2023-06-04T00:00:00+12:00</published><updated>2023-06-04T00:00:00+12:00</updated><id>/football/2023/06/04/beyond-the-joystick</id><content type="html" xml:base="/football/2023/06/04/beyond-the-joystick.html"><![CDATA[<p>How can we prevent all players from crowding around the ball like a swarm of bees? That was one of the first questions I asked myself when I started coaching kids.</p>
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Football Notes</title>
+    <link href="https://en.allende.nz/football/feed.xml" rel="self" />
+    <link href="https://en.allende.nz/football" />
+    <updated>2024-04-15T11:58:49+12:00</updated>
+    <author>
+        <name>Roberto Allende</name>
+    </author>
+    <id>https://en.allende.nz/football</id>
 
-<!--more-->
+    <entry>
+        <title>Adversity in Football and in Life</title>
+        <author>
+            <name>Roberto Allende</name>
+        </author>
+        <link href="https://en.allende.nz/football/overcoming-adversity-in-football/"/>
+        <id>https://en.allende.nz/football/overcoming-adversity-in-football/</id>
+        <media:content url="https://en.allende.nz/football/media/posts/6/DALLE-2024-04-14-14.21.22-A-linear-photo-collage-of-a-soccer-player-on-the-field-featuring-four-images-side-by-side.-The-first-three-images-are-in-black-and-white-showing-the.webp" medium="image" />
+            <category term="Success"/>
+            <category term="Lineup"/>
+            <category term="Junior Path"/>
+            <category term="Expectations"/>
 
+        <updated>2024-04-14T17:33:54+12:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://en.allende.nz/football/media/posts/6/DALLE-2024-04-14-14.21.22-A-linear-photo-collage-of-a-soccer-player-on-the-field-featuring-four-images-side-by-side.-The-first-three-images-are-in-black-and-white-showing-the.webp" alt="" />
+                    <p>When I was 10 years old, I wanted to play football and I joined a club. My friends suggested I should be a goalkeeper because they thought I had the skills and the team only had one who apparently did not stand out. However, in the first practice, I chose to play as a defender, which led to a resounding "No!" from my friends. I wanted to be number two, a position already held by the team's captain, an irreplaceable player.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://en.allende.nz/football/media/posts/6/DALLE-2024-04-14-14.21.22-A-linear-photo-collage-of-a-soccer-player-on-the-field-featuring-four-images-side-by-side.-The-first-three-images-are-in-black-and-white-showing-the.webp" class="type:primaryImage" alt="" /></p>
+                <p>When I was 10 years old, I wanted to play football and I joined a club. My friends suggested I should be a goalkeeper because they thought I had the skills and the team only had one who apparently did not stand out. However, in the first practice, I chose to play as a defender, which led to a resounding "No!" from my friends. I wanted to be number two, a position already held by the team's captain, an irreplaceable player.</p>
+
+<p>Over the weeks, the coach would tell me every Thursday, "Kid, don't come on Saturday, you're not going to play." Eventually, my mother decided to take me out of the team and I never returned to club play.</p>
+<div class="markdown prose w-full break-words dark:prose-invert dark">
+<p>The curious thing about this episode is that I don't remember it as a frustrating one<span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">. Perhaps I was frustrated at the time, even when my parents told me they would no longer take me to the club, but the prevailing memory is that I still wanted to keep playing and attending training. I really believe I enjoyed it.</span></p>
+<p>From that group, one player made it to the professional level and joined the first team of a major club in my city that plays in the top division of Argentine football. He made it, but he never left the bench and spent his best years hoping to start. The years passed and his career did not progress until he had to retire.</p>
+<h2>There are things that are not under your control.</h2>
+<p>It's complicated because in football, you always depend on someone else's decision. It doesn’t matter what role you have: the player depends on the coach, the coach on the club's authorities, the club on the league, the league on the federation, the federation on FIFA, and as for FIFA... who knows? I cannot even imagine how challenging it must be to govern such an organization.</p>
+<p>A football federation was a client of the organization where I held one of my first jobs as a software engineer. During the project, an executive explained to me very clearly that in a football match, <strong>two games are played: the one played by the players on the field and the one played by the politicians off it</strong>. This isn’t necessarily corruption; often, playing in one stadium is more favorable than another for a team. A disciplinary measure can be less or more severe; the executives can appeal. There is a game beyond the one played on the field. At worst, it's a political game. At best, it's a decision game.</p>
+<p>It's complicated, very complicated. But if there is one very clear thing, it's that no matter what position or role you have, there are always things out of your control. Thus, if today you find yourself on the bench or the game frustrates your expectations, the best thing you can do is learn to face that frustration. Frustration is part of the game, just as winning and losing is.</p>
+<p>Before confronting it, I believe it is natural to let the bitter taste flow. You need to give yourself time to recognize that things didn’t go as expected. The key is not to dwell there but to move forward.</p>
+<p>In this process, the concept of "circles of influence" and "circles of control" described by Stephen R. Covey in the book "<a href="https://en.wikipedia.org/wiki/The_7_Habits_of_Highly_Effective_People" target="_blank" rel="noopener noreferrer">The 7 Habits of Highly Effective People</a>" is enlightening. These circles are part of a broader framework Covey uses to help people manage their effectiveness by focusing on the aspects of their lives they can influence or control.</p>
+<p> </p>
+<figure class="post__image" ><a href="https://learningloop.io/glossary/circles-of-influence" target="_blank" rel="noopener noreferrer"><img loading="lazy" src="https://en.allende.nz/football/media/posts/6/circles-of-influence.jpg" alt="Circles of Influence" width="1468" height="994" sizes="100vw" srcset="https://en.allende.nz/football/media/posts/6/responsive/circles-of-influence-xs.jpg 300w ,https://en.allende.nz/football/media/posts/6/responsive/circles-of-influence-sm.jpg 480w ,https://en.allende.nz/football/media/posts/6/responsive/circles-of-influence-md.jpg 768w ,https://en.allende.nz/football/media/posts/6/responsive/circles-of-influence-lg.jpg 1024w ,https://en.allende.nz/football/media/posts/6/responsive/circles-of-influence-xl.jpg 1360w ,https://en.allende.nz/football/media/posts/6/responsive/circles-of-influence-2xl.jpg 1600w"></a>
+<figcaption >Circles of Influence is a concept that helps individuals focus on the things they can control or influence, and accept the things they cannot</figcaption>
+</figure>
+<p>Here is a brief description:</p>
+<h3>Circle of Control</h3>
+<p>Includes things over which you have direct control, such as your behavior, decisions, and actions. Focusing on this circle empowers you because it focuses on your personal responsibility and your ability to initiate change.</p>
+<h3>Circle of Influence</h3>
+<p>This circle encompasses areas where you can affect outcomes but do not have total control. This might include relationships, workplace dynamics, or broader social interactions. You can exert influence through persuasion, example, and negotiation.</p>
+<h3>Circle of Concern</h3>
+<p>Includes a broader range of issues, such as global economic conditions, natural disasters, or the behavior of others, over which you have little or no direct control. While these issues may concern you, focusing too much on them can lead to feelings of helplessness and stress because your capacity to effect change is limited.</p>
+<blockquote>
+<p>There lies the key to moving forward and not remaining indefinitely frustrated: recognizing what's under your control and focusing all energy and effort on it.</p>
+</blockquote>
+<h2>Dibu, Mascherano and Messi</h2>
+<p>Allow me to illustrate these ideas with three examples.</p>
+<p><strong>Emiliano Martínez</strong>, also known as Dibu, began his career at Independiente in Argentina and was transferred to Arsenal in 2010. For several years, he remained on the bench or was loaned out to other teams, facing intense competition for a starting position in the main team.</p>
+<p>Over a decade at Arsenal, Martínez tirelessly fought to secure a place, being loaned out repeatedly to gain experience. It wasn't until he was 27 years old that he finally established himself as a starter, taking advantage of another goalkeeper's injury.</p>
+<figure class="post__image" ><img loading="lazy" src="https://en.allende.nz/football/media/posts/6/DibuMartinez.jpeg" alt="Emiliano Martinez" width="1920" height="1080" sizes="100vw" srcset="https://en.allende.nz/football/media/posts/6/responsive/DibuMartinez-xs.jpeg 300w ,https://en.allende.nz/football/media/posts/6/responsive/DibuMartinez-sm.jpeg 480w ,https://en.allende.nz/football/media/posts/6/responsive/DibuMartinez-md.jpeg 768w ,https://en.allende.nz/football/media/posts/6/responsive/DibuMartinez-lg.jpeg 1024w ,https://en.allende.nz/football/media/posts/6/responsive/DibuMartinez-xl.jpeg 1360w ,https://en.allende.nz/football/media/posts/6/responsive/DibuMartinez-2xl.jpeg 1600w">
+<figcaption >It wasn't until he was 27 years old that Emiliano Martinez finally established himself as a starter</figcaption>
+</figure>
+<p>At 28, Martínez won his first major title, the FA Cup with Arsenal. This victory marked the beginning of his recognition in elite football, and he subsequently established himself at Aston Villa and stood out in the Argentine national team, significantly contributing in major international tournaments such as the Copa América and the World Cup.</p>
+<p>Another example is <strong>Javier Mascherano</strong>, who joined FC Barcelona in 2010 from Liverpool, with a solid record as a defensive midfielder. In Barcelona, he faced fierce competition in midfield from figures like Sergio Busquets and Xavi Hernández. Faced with this situation, Mascherano adapted to playing as a central defender, a role that was not initially his specialty. This transition proved successful; under the guidance of coaches like Pep Guardiola and Luis Enrique, Mascherano secured his place in the defense, contributing to the team's success in competitions such as the Champions League and the League, proving to be a versatile and indispensable player.</p>
+<figure class="post__image"><img loading="lazy"  src="https://en.allende.nz/football/media/posts/6/JavierMascherano.jpg" alt="" width="1200" height="800" sizes="100vw" srcset="https://en.allende.nz/football/media/posts/6/responsive/JavierMascherano-xs.jpg 300w ,https://en.allende.nz/football/media/posts/6/responsive/JavierMascherano-sm.jpg 480w ,https://en.allende.nz/football/media/posts/6/responsive/JavierMascherano-md.jpg 768w ,https://en.allende.nz/football/media/posts/6/responsive/JavierMascherano-lg.jpg 1024w ,https://en.allende.nz/football/media/posts/6/responsive/JavierMascherano-xl.jpg 1360w ,https://en.allende.nz/football/media/posts/6/responsive/JavierMascherano-2xl.jpg 1600w"><figcaption>From Liverpool to Barcelona: Mascherano had to adapt to a new position upon his arrival.</figcaption></figure>
+<p>Starting a competitive career at 28 may seem late, especially for a goalkeeper. However, the key is that Martínez did not start at 28. He trained and prepared for many years to seize his opportunity when the starting goalkeeper was injured and he was ready.</p>
+<p>After his stint at Liverpool, Mascherano could have believed he was a star and that the team should adapt to him. Had he followed that path, he likely would have ended up on the bench. Instead, he adjusted his expectations, adapted, and learned what was necessary, ultimately playing and winning tournament finals with the Champions League, not to mention his 414 matches alongside Lionel Messi.</p>
+<p>In the face of adversity, it is best to initially allow oneself to feel the frustration. However, it is crucial not to remain stuck in it and to move forward. Moving forward is a mental game, and the key is to recognize what is under our control. In adverse outcomes, there are always opportunities: opportunities to learn, adapt to new circumstances, and explore new positions.</p>
+<p>I am convinced that these may seem like mere nice words, but if you look at the careers of those who have excelled, you will see that they stood out because they managed to overcome adversities.</p>
+<p>This process is what made them great. Nobody is born winning.</p>
+<p>And there's no better example of this than <strong>Lionel Messi</strong>. Starting with his medical condition at an early age, the economic struggles that forced him to split his family as a child to move to Europe. As an adult, even though he was recognized as one of the best footballers in history, it took him participation in four World Cups before he finally won it at his fifth attempt in 2022, nearly at the end of his career.</p>
+<a href="https://www.youtube.com/watch?v=FgZZ32fCanc" target="_blank" rel="noopener noreferrer">
+<figure class="post__image"><img loading="lazy"  src="https://en.allende.nz/football/media/posts/6/Screenshot-2024-04-14-at-17.55.51.png" alt="Messi's story by Gatorade" sizes="100vw" srcset="https://en.allende.nz/football/media/posts/6/responsive/Screenshot-2024-04-14-at-17.55.51-xs.png 300w ,https://en.allende.nz/football/media/posts/6/responsive/Screenshot-2024-04-14-at-17.55.51-sm.png 480w ,https://en.allende.nz/football/media/posts/6/responsive/Screenshot-2024-04-14-at-17.55.51-md.png 768w ,https://en.allende.nz/football/media/posts/6/responsive/Screenshot-2024-04-14-at-17.55.51-lg.png 1024w ,https://en.allende.nz/football/media/posts/6/responsive/Screenshot-2024-04-14-at-17.55.51-xl.png 1360w ,https://en.allende.nz/football/media/posts/6/responsive/Screenshot-2024-04-14-at-17.55.51-2xl.png 1600w"><figcaption>Messi's life, much like a fairy tale, is not without its setbacks.</figcaption></figure>
+</a>
+<p>This idea transcends sports. <a href="https://en.wikipedia.org/wiki/Jensen_Huang">Jensen Huang</a> recently said, </p>
+<blockquote>
+<p>Greatness does not come from intelligence. Greatness comes from character, and character isn't formed out of smart people; it's formed out of people who have suffered.</p>
+</blockquote>
+<a href="https://twitter.com/BUILD_OR_DIE/status/1773570462016020960" target="_blank" rel="noopener noreferrer">
+<figure class="post__image"><img loading="lazy"  src="https://en.allende.nz/football/media/posts/6/Screenshot-2024-04-14-at-17.47.32.png" alt="Jensen Huang: Greatness comes from character." width="1208" height="680" sizes="100vw" srcset="https://en.allende.nz/football/media/posts/6/responsive/Screenshot-2024-04-14-at-17.47.32-xs.png 300w ,https://en.allende.nz/football/media/posts/6/responsive/Screenshot-2024-04-14-at-17.47.32-sm.png 480w ,https://en.allende.nz/football/media/posts/6/responsive/Screenshot-2024-04-14-at-17.47.32-md.png 768w ,https://en.allende.nz/football/media/posts/6/responsive/Screenshot-2024-04-14-at-17.47.32-lg.png 1024w ,https://en.allende.nz/football/media/posts/6/responsive/Screenshot-2024-04-14-at-17.47.32-xl.png 1360w ,https://en.allende.nz/football/media/posts/6/responsive/Screenshot-2024-04-14-at-17.47.32-2xl.png 1600w"><figcaption>Jensen Huang: Greatness comes from character.</figcaption></figure>
+</a>
+<p>You weren't picked for the team you wanted. <br>You're not playing the minutes you expected. <br>You couldn't get the job you applied for.</p>
+<p><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Don't let the problem define who you are, <br>but rather how you come back.</span></p>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Beyond the Joystick. Empowering Players&#x27; Autonomy and Creativity in Football</title>
+        <author>
+            <name>Roberto Allende</name>
+        </author>
+        <link href="https://en.allende.nz/football/beyond-the-joystick-empowering-players-autonomy-and-creativity-in-football/"/>
+        <id>https://en.allende.nz/football/beyond-the-joystick-empowering-players-autonomy-and-creativity-in-football/</id>
+        <media:content url="https://en.allende.nz/football/media/posts/5/joystickCoach.webp" medium="image" />
+            <category term="Passes"/>
+            <category term="Joystick"/>
+            <category term="Autonomy"/>
+
+        <updated>2023-06-04T17:00:00+12:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://en.allende.nz/football/media/posts/5/joystickCoach.webp" alt="" />
+                    <p>How can we prevent all players from crowding around the ball like a swarm of bees? That was one of the first questions I asked myself when I started coaching kids.</p>
 <p>I don’t know if there’s a perfect solution, and I’m still searching for an answer to that question. I keep searching because, in reality, this is part of a broader problem that doesn’t only apply to kids. It’s about influencing the behavior of a group or even shaping habits.</p>
-
 <p>Here are two different alternatives to solve this problem.</p>
 
-<h1 id="the-joystick-coach">The Joystick Coach</h1>
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://en.allende.nz/football/media/posts/5/joystickCoach.webp" class="type:primaryImage" alt="" /></p>
+                <p>How can we prevent all players from crowding around the ball like a swarm of bees? That was one of the first questions I asked myself when I started coaching kids.</p>
+<p>I don’t know if there’s a perfect solution, and I’m still searching for an answer to that question. I keep searching because, in reality, this is part of a broader problem that doesn’t only apply to kids. It’s about influencing the behavior of a group or even shaping habits.</p>
+<p>Here are two different alternatives to solve this problem.</p>
 
+<h1 id="the-joystick-coach">The Joystick Coach<a class="anchor d-print-none" aria-hidden="true"><i class="fas fa-anchor"></i></a></h1>
 <p>The first way to solve the problem is by giving instructions to the players. Shouting at them loudly to make sure they hear us. We can give them all kinds of instructions like “run,” “pay attention,” “go,” “come back,” “kick the ball with your right foot,” “use your left foot,” “head it,” “jump,” etc.</p>
-
 <p>I once watched a game where the coach was directing his team in this way. To be honest, it was irritating and deafening. The worst part was when his team got a corner kick, a player grabbed the ball, turned around, and shouted at the coach, “What do I do?” The player needed the coach to tell him what to do during a corner kick. It’s true that you can have planned plays or follow certain guidelines, but a corner kick in children’s football should be simple: send the ball into the area or make a pass. There’s not much more to it. The player couldn’t decide that on his own.</p>
-
 <blockquote>
-  <p>The problem with those who dictate tactics is that they take away the joy and creativity from the players. The most important thing in football is to play with joy and passion. If you’re not enjoying it, you’re not playing the game correctly.
-Brian Clough</p>
+<p>The problem with those who dictate tactics is that they take away the joy and creativity from the players. The most important thing in football is to play with joy and passion. If you’re not enjoying it, you’re not playing the game correctly. Brian Clough</p>
 </blockquote>
-
 <p>The problem with the joystick coach is that it takes away the players’ sense of autonomy.</p>
-
 <p>Autonomy and intrinsic motivation are closely related and often go hand in hand. Autonomy refers to the sense of self-direction and control that individuals have over their actions and decisions. On the other hand, intrinsic motivation refers to engaging in an activity for its own enjoyment and satisfaction, rather than for external rewards or pressures.</p>
-
 <p>When people have a sense of autonomy, they feel empowered and have the freedom to make decisions and choices that align with their own interests, values, and goals. This autonomy supports and enhances intrinsic motivation. When people have autonomy to engage in activities they find meaningful and enjoyable, they can nurture their intrinsic motivation to participate in those activities voluntarily and wholeheartedly.</p>
-
 <p>In contrast, when people experience a lack of autonomy, such as being excessively controlled or micromanaged, it can hinder their intrinsic motivation. External pressures, strict rules, or imposed goals can diminish the sense of autonomy and reduce intrinsic motivation, making the activity feel more like an obligation than a personally fulfilling pursuit.</p>
-
 <p>Research has consistently shown that providing autonomy to individuals in their work, learning, or other areas of life can promote intrinsic motivation, leading to increased engagement, creativity, and overall well-being. By allowing individuals to have a say in their actions and fostering a sense of self-determination, autonomy supports and nurtures their intrinsic motivation to engage in activities for the pure joy, curiosity, or personal growth they bring.</p>
-
 <p>This is closely aligned with what the current coach of Brighton &amp; Hove Albion says:</p>
-
 <blockquote>
-  <p>I don’t move my players with a joystick… the decisions are all up to them.
-Roberto de Zerbi</p>
+<p>I don’t move my players with a joystick… the decisions are all up to them. Roberto de Zerbi</p>
 </blockquote>
-
-<h1 id="games-with-incentives-and-restrictions">Games with Incentives and Restrictions</h1>
-
+<h1 id="games-with-incentives-and-restrictions">Games with Incentives and Restrictions<a class="anchor d-print-none" aria-hidden="true"><i class="fas fa-anchor"></i></a></h1>
 <p>Let’s say we want to teach a group of kids how to make passes. A joystick coach shouts at the players to pass the ball until they understand it.</p>
-
 <p>This not only frustrates everyone but also takes a long time to work. One of the reasons it doesn’t work is that players, especially children, may take a long time to understand what making a pass means.</p>
-
 <p>Making a pass is difficult to learn because it requires many skills that are not easy to incorporate. For example, looking up, having a spatial awareness of teammates, having the motor skills to kick the ball with the right force and direction, etc.</p>
-
 <p>The idea to solve this problem is to devise specific games to acquire skills or change habits. For example, in the case of passing, the “rondo” is a simple game with restricted rules designed specifically for players to practice specific passing skills, among others.</p>
-
 <p>A rondo is a game where a group of players positions themselves in a small space, forming a circle, while one or several players defend in the center. The goal of the players in the circle is to maintain ball possession through quick and accurate passes, while the defenders try to intercept the ball.</p>
-
 <p>Another example would be dividing the playing field into different lanes and assigning one to each player to teach them to avoid crowding. Then, restrictions and incentives can be set. For instance, if a player stays in their lane, they have no restrictions, but if they step out of it, they can only touch the ball once. Violating this restriction results in the opposing team being awarded a free kick.</p>
-
 <p>That’s why training sessions are important. It’s the moment to make interventions. The rondo is just one example, and there are as many playful interventions as there are skills to develop or train. The key is to recognize the behavior or habits you want to incorporate and then find or develop the necessary game.</p>
-
 <p>Restrictions can be incorporated into matches, but in practice, I haven’t found it necessary. It’s impressive to see how in a matter of weeks, a swarm of bees can disperse on a football field and start using space intelligently.</p>
-
 <blockquote>
-  <p>For many, football is played with the feet. For me, it is played with the head, and the feet are used to express it.
-Johan Cruyff</p>
+<p>For many, football is played with the feet. For me, it is played with the head, and the feet are used to express it. Johan Cruyff</p>
 </blockquote>
-
 <p>Football is played with the head because it’s a game of decision-making. Forcing individual or collective decisions comes at a high cost: it discourages players’ autonomy and motivation. The best alternative I’ve found so far to convey a concept is to present different options through activities to the players during training and let them decide in the match.</p>
+<p>The key is to respect the players’ decisions, especially during the match, to the point where I’ve come to believe that telling a player what to do in a match is like spoiling the ending of a movie.</p>
+<p>And no one wants to be a spoiler.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Fast! Play fast</title>
+        <author>
+            <name>Roberto Allende</name>
+        </author>
+        <link href="https://en.allende.nz/football/fast-play-fast/"/>
+        <id>https://en.allende.nz/football/fast-play-fast/</id>
+        <media:content url="https://en.allende.nz/football/media/posts/4/the-flash-playing-football.jpg" medium="image" />
+            <category term="Speed"/>
+            <category term="Passes"/>
 
-<p>The key is to respect the players’ decisions, especially during the match, to the point where I’ve come to believe that telling a player what to do in a match is like spoiling the ending of a movie. And no one wants to be a spoiler.</p>
-
-<div class="fb-comments" data-href="https://en.allende.nz/football/2023/06/04/beyond-the-joystick.html" data-width="720" data-numposts="10"></div>]]></content><author><name>Roberto Allende</name></author><category term="Autonomy" /><category term="Passes" /><category term="Joystick" /><summary type="html"><![CDATA[How can we prevent all players from crowding around the ball like a swarm of bees? That was one of the first questions I asked myself when I started coaching kids.]]></summary></entry><entry><title type="html">Fast! Play fast</title><link href="/football/2023/03/30/play-fast-football.html" rel="alternate" type="text/html" title="Fast! Play fast" /><published>2023-03-30T00:00:00+13:00</published><updated>2023-03-30T00:00:00+13:00</updated><id>/football/2023/03/30/play-fast-football</id><content type="html" xml:base="/football/2023/03/30/play-fast-football.html"><![CDATA[<p>Playing slowly allows your opponent to get organized, which often leads to turnovers and ultimately, losses. Avoiding slow play is crucial for winning games. So, what does it mean to play fast?</p>
-
-<!--more-->
-
-<hr />
-
+        <updated>2023-03-30T16:00:00+13:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://en.allende.nz/football/media/posts/4/the-flash-playing-football.jpg" alt="" />
+                    Playing slowly allows your opponent to get organized, which often leads to turnovers and ultimately, losses. Avoiding slow play is crucial for winning games. So, what does it mean to play fast? Watch the following video to see fast football in action: Playing fast in&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://en.allende.nz/football/media/posts/4/the-flash-playing-football.jpg" class="type:primaryImage" alt="" /></p>
+                <p>Playing slowly allows your opponent to get organized, which often leads to turnovers and ultimately, losses. Avoiding slow play is crucial for winning games. So, what does it mean to play fast?</p>
+<hr>
 <p>Watch the following video to see fast football in action:</p>
-
-<iframe width="100%" height="480" src="https://www.youtube.com/embed/Fcj67F4zkig?start=34" frameborder="0"></iframe>
-
+<figure class="post__image"><a href="https://www.youtube.com/watch?v=RWgJ4KKn1vM" target="_blank" rel="noopener noreferrer"><img loading="lazy"  src="https://en.allende.nz/football/media/posts/4/Screenshot-2024-04-14-at-16.01.38.png" alt="" width="1602" height="914" sizes="100vw" srcset="https://en.allende.nz/football/media/posts/4/responsive/Screenshot-2024-04-14-at-16.01.38-xs.png 300w ,https://en.allende.nz/football/media/posts/4/responsive/Screenshot-2024-04-14-at-16.01.38-sm.png 480w ,https://en.allende.nz/football/media/posts/4/responsive/Screenshot-2024-04-14-at-16.01.38-md.png 768w ,https://en.allende.nz/football/media/posts/4/responsive/Screenshot-2024-04-14-at-16.01.38-lg.png 1024w ,https://en.allende.nz/football/media/posts/4/responsive/Screenshot-2024-04-14-at-16.01.38-xl.png 1360w ,https://en.allende.nz/football/media/posts/4/responsive/Screenshot-2024-04-14-at-16.01.38-2xl.png 1600w"></figure></a></p>
 <p>Playing fast in football does not necessarily require long balls. Rather, it means moving the ball quickly. Nothing in football is faster than a moving ball - even the fastest player on the field cannot cover fifty meters as fast as a kicked ball. In Messi’s goal, it takes only five seconds for the ball to travel from midfield to the net.</p>
-
 <p>Another beautiful goal</p>
-<iframe width="100%" height="480" src="https://www.youtube.com/embed/mMiL4_1Yewg" frameborder="0"></iframe>
-
+<figure class="post__image"><a href="https://www.youtube.com/watch?v=mMiL4_1Yewg" target="_blank" rel="noopener noreferrer"><img loading="lazy"  src="https://en.allende.nz/football/media/posts/4/Screenshot-2024-04-14-at-16.06.24.png" alt="" width="1702" height="960" sizes="100vw" srcset="https://en.allende.nz/football/media/posts/4/responsive/Screenshot-2024-04-14-at-16.06.24-xs.png 300w ,https://en.allende.nz/football/media/posts/4/responsive/Screenshot-2024-04-14-at-16.06.24-sm.png 480w ,https://en.allende.nz/football/media/posts/4/responsive/Screenshot-2024-04-14-at-16.06.24-md.png 768w ,https://en.allende.nz/football/media/posts/4/responsive/Screenshot-2024-04-14-at-16.06.24-lg.png 1024w ,https://en.allende.nz/football/media/posts/4/responsive/Screenshot-2024-04-14-at-16.06.24-xl.png 1360w ,https://en.allende.nz/football/media/posts/4/responsive/Screenshot-2024-04-14-at-16.06.24-2xl.png 1600w"></figure></a></p>
 <p>Messi’s incredible dribbling skills are also a great example of playing fast, but it took 19-year-old Messi up to ten seconds to carry the ball from midfield to the net in his goal. While it’s impressive, not everyone can dribble past half of the opposing team in just ten seconds and score a goal.</p>
-
 <p>So, fast football doesn’t necessarily require long balls or superhuman dribbling speed. Simple touches can achieve the same outcome. One or two-touch football can result in a goal in less than ten seconds, without the big error margin that comes with dribbling or long balls. Check out the following example.</p>
-
-<iframe width="100%" height="480" src="https://www.youtube.com/embed/gm3jomzFEpk" frameborder="0"></iframe>
-
-<h1 id="play-fast-not-in-a-hurry">Play fast, not in a hurry</h1>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/gm3jomzFEpk?t=31s" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+<h1 id="play-fast-not-in-a-hurry">Play fast, not in a hurry<a class="anchor d-print-none" aria-hidden="true"><i class="fas fa-anchor"></i></a></h1>
 <p>Check out this video where a team plays fast, not in a hurry. They move the ball with patience, looking for the gap in the defense.</p>
-
-<iframe width="100%" height="480" src="https://www.youtube.com/embed/iBZdcpdxoTA" frameborder="0"></iframe>
-
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/iBZdcpdxoTA" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <p>Playing fast typically means playing at a high tempo or pace, where the player is focused on moving quickly and efficiently without sacrificing control or accuracy.</p>
-
 <p>On the other hand, playing in a hurry typically implies a sense of panic or urgency, where the player is rushing their decisions or movements without proper control or strategy.</p>
-
-<h1 id="totally-possible">Totally Possible</h1>
-
+<h1 id="totally-possible">Totally Possible<a class="anchor d-print-none" aria-hidden="true"><i class="fas fa-anchor"></i></a></h1>
 <p>This is totally possible in Amateur and Junior Football. Watch the following goals.</p>
-
-<iframe width="100%" height="480" src="https://www.youtube.com/embed/wlb2h_cyhQ8" frameborder="0"></iframe>
-
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/wlb2h_cyhQ8" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <p>It takes about five seconds from midfield to the end of the net. These players are eight years old.</p>
-
 <p>Another one. Different team. Same coach.</p>
-
-<iframe width="100%" height="480" src="https://www.youtube.com/embed/Yw1qA9vl7Uo" frameborder="0"></iframe>
-
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/Yw1qA9vl7Uo" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <p>These players are 11 years old.</p>
-
 <p>Same team, two years before.</p>
-
-<iframe width="100%" height="480" src="https://www.youtube.com/embed/juQ7XE0Qp9g" frameborder="0"></iframe>
-
-<h1 id="how-to-play-fast-and-win-games">How to Play Fast and Win Games</h1>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/juQ7XE0Qp9g" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+<h1 id="how-to-play-fast-and-win-games">How to Play Fast and Win Games<a class="anchor d-print-none" aria-hidden="true"><i class="fas fa-anchor"></i></a></h1>
 <p>To play fast, you must have the desire to do so. It’s a decision that needs to be made before the game starts. You need to consciously choose to play at a high tempo, limiting your touches on the ball to maintain quick play. Dribbling is a great resource, but it should be the exception, not the rule. If you want to play fast and get the job done, use one touch instead of two. If you can accomplish it in two touches, avoid taking three. The more touches you need to control and pass the ball, the slower your progress will be.</p>
-
-<p>Another way to think about speed in football is through what <a href="https://www.amazon.com/Soccer-IQ-Things-Smart-Players/dp/1469982471">Dan Blank</a> calls the <em>football speed ladder</em>:</p>
-
+<p>Another way to think about speed in football is through what <a href="https://www.amazon.com/Soccer-IQ-Things-Smart-Players/dp/1469982471">Dan Blank</a> calls the <em>football speed ladder</em>:</p>
 <ul>
-  <li>The <strong>slowest</strong> way to move the ball in football is when a player dribbles while making lateral movements and feints.</li>
-  <li><strong>Slow</strong> play is when a player runs straight ahead with the ball at top speed.</li>
-  <li><strong>Faster</strong> is a player running without the ball.</li>
-  <li>The <strong>fastest</strong> football is a moving ball.</li>
+<li>The <strong>slowest</strong> way to move the ball in football is when a player dribbles while making lateral movements and feints.</li>
+<li><strong>Slow</strong> play is when a player runs straight ahead with the ball at top speed.</li>
+<li><strong>Faster</strong> is a player running without the ball.</li>
+<li>The <strong>fastest</strong> football is a moving ball.</li>
 </ul>
-
 <p>Speed of play is more than a habit - it’s a lifestyle. You can only fully embrace it when you realize that nothing is more important than quick play. In football, fast is better than slow, and it’s ultimately what wins games.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Introducing Astuten</title>
+        <author>
+            <name>Roberto Allende</name>
+        </author>
+        <link href="https://en.allende.nz/football/introducing-astuten/"/>
+        <id>https://en.allende.nz/football/introducing-astuten/</id>
+        <media:content url="https://en.allende.nz/football/media/posts/3/astuten-concept.jpg" medium="image" />
+            <category term="MobileApp"/>
+            <category term="Lineup"/>
+            <category term="Coach"/>
+            <category term="Astuten"/>
 
-<hr />
-
-<div class="fb-comments" data-href="https://en.allende.nz/football/2023/03/30/play-fast-football.html" data-width="720" data-numposts="10"></div>]]></content><author><name>Roberto Allende</name></author><category term="Speed" /><category term="Passes" /><summary type="html"><![CDATA[Playing slowly allows your opponent to get organized, which often leads to turnovers and ultimately, losses. Avoiding slow play is crucial for winning games. So, what does it mean to play fast?]]></summary></entry><entry><title type="html">Introducing Astuten</title><link href="/football/2022/07/08/introducing-astuten.html" rel="alternate" type="text/html" title="Introducing Astuten" /><published>2022-07-08T00:00:00+12:00</published><updated>2022-07-08T00:00:00+12:00</updated><id>/football/2022/07/08/introducing-astuten</id><content type="html" xml:base="/football/2022/07/08/introducing-astuten.html"><![CDATA[<p>As a grassroots football coach I want to make sure I give fair playing time to every player on my team. That’s why I used to spend hours planning game subs.</p>
-
-<!--more-->
-
-<hr />
-
+        <updated>2022-07-08T15:00:00+12:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://en.allende.nz/football/media/posts/3/astuten-concept.jpg" alt="" />
+                    As a grassroots football coach I want to make sure I give fair playing time to every player on my team. That’s why I used to spend hours planning game subs. Planning subs is not easy because it’s not just about playing time. You also&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://en.allende.nz/football/media/posts/3/astuten-concept.jpg" class="type:primaryImage" alt="" /></p>
+                <p>As a grassroots football coach I want to make sure I give fair playing time to every player on my team. That’s why I used to spend hours planning game subs.</p>
+<hr>
 <p>Planning subs is not easy because it’s not just about playing time. You also want to rotate positions but not that often. You want to optimise learning opportunities given the difficulty an opponents provides and so on.</p>
-
 <p>More than once occasion, I showed up to a match with perfect plan just to get a phone call from a parent telling me that his child couldn’t play that day and now I had came up with new plan in just few minutes.</p>
-
 <p>Every time I made a plan or I had to make a last minute adjustment I thought the must be a better way to do this.</p>
-
-<p>And that’s why I developed <a href="http://astuten.io">Astuten</a>.</p>
-
+<p>And that’s why I developed <a href="http://astuten.io/">Astuten</a>.</p>
 <p>Astuten has three simple goals:</p>
-
 <ul>
-  <li>Allow coaches to make player substitution plans in seconds.</li>
-  <li>Manage and follow lineups in real-time during matches.</li>
-  <li>All in one app and across all your web browsers and devices.</li>
+<li>Allow coaches to make player substitution plans in seconds.</li>
+<li>Manage and follow lineups in real-time during matches.</li>
+<li>All in one app and across all your web browsers and devices.</li>
 </ul>
-
-<p>Are you curious? watch the demo video below and <a href="https://docs.google.com/forms/d/e/1FAIpQLSfTtaY7r3weo9R1vck9kZiDV991VF7vDHy3X1qVdC5DwYwdIQ/viewform">join the beta</a> to try it yourself.</p>
-
-<iframe width="840" height="630" src="https://www.youtube.com/embed/ayRMwlBseJg" frameborder="0" allowfullscreen=""></iframe>
-
+<p>Are you curious? watch the demo video below and <a href="https://www.astuten.com/" title="Download Astuten">download the app</a> to try it yourself.</p>
+<div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/ayRMwlBseJg?si=YamC5-GTqLz-mxzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></div>
 <p>Astuten is a live project so, if you find a feature that the app must have, don’t hesitate to write me. I want to make Astuten as much as useful for you as it’s for myself.</p>
+<figure class="post__image"><img loading="lazy"  src="https://en.allende.nz/football/media/posts/3/Screenshot-2024-04-14-at-15.54.26.png" alt="" width="1368" height="178" sizes="100vw" srcset="https://en.allende.nz/football/media/posts/3/responsive/Screenshot-2024-04-14-at-15.54.26-xs.png 300w ,https://en.allende.nz/football/media/posts/3/responsive/Screenshot-2024-04-14-at-15.54.26-sm.png 480w ,https://en.allende.nz/football/media/posts/3/responsive/Screenshot-2024-04-14-at-15.54.26-md.png 768w ,https://en.allende.nz/football/media/posts/3/responsive/Screenshot-2024-04-14-at-15.54.26-lg.png 1024w ,https://en.allende.nz/football/media/posts/3/responsive/Screenshot-2024-04-14-at-15.54.26-xl.png 1360w ,https://en.allende.nz/football/media/posts/3/responsive/Screenshot-2024-04-14-at-15.54.26-2xl.png 1600w"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Expectations for a Junior Football Journey</title>
+        <author>
+            <name>Roberto Allende</name>
+        </author>
+        <link href="https://en.allende.nz/football/expectations-for-a-junior-football-journey/"/>
+        <id>https://en.allende.nz/football/expectations-for-a-junior-football-journey/</id>
+        <media:content url="https://en.allende.nz/football/media/posts/2/team-of-friends.jpg" medium="image" />
+            <category term="Success"/>
+            <category term="Junior Path"/>
+            <category term="Expectations"/>
+            <category term="Coach"/>
 
-<hr />
-
-<div class="fb-comments" data-href="https://en.allende.nz/football/2022/07/09/introducing-astuten.html" data-width="720" data-numposts="10"></div>]]></content><author><name>Roberto Allende</name></author><category term="Coach" /><category term="Lineup" /><category term="MobileApp" /><category term="Astuten" /><summary type="html"><![CDATA[As a grassroots football coach I want to make sure I give fair playing time to every player on my team. That’s why I used to spend hours planning game subs.]]></summary></entry><entry><title type="html">Expectations for a Junior Football Journey</title><link href="/football/2022/06/07/expectations-for-a-junior-football-journey.html" rel="alternate" type="text/html" title="Expectations for a Junior Football Journey" /><published>2022-06-07T00:00:00+12:00</published><updated>2022-06-07T00:00:00+12:00</updated><id>/football/2022/06/07/expectations-for-a-junior-football-journey</id><content type="html" xml:base="/football/2022/06/07/expectations-for-a-junior-football-journey.html"><![CDATA[<p>A child dribbles the ball and breaks the opponent’s defence and now he/she is in front of the goalkeeper and has to resolve the situation in a few milliseconds.</p>
-
+        <updated>2022-06-07T14:00:00+12:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://en.allende.nz/football/media/posts/2/team-of-friends.jpg" alt="" />
+                    <p>A child dribbles the ball and breaks the opponent’s defence and now he/she is in front of the goalkeeper and has to resolve the situation in a few milliseconds.</p>
 <p>The player misses. Is it bad?. The player scores. Is it good?.</p>
-
 <p>There are countless situations like this in a game like a football. Situations that not only belong to the game itself but also about the relationship with teammates, adversity, and authority, just to mention a few.</p>
 
-<!--more-->
-
-<hr />
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://en.allende.nz/football/media/posts/2/team-of-friends.jpg" class="type:primaryImage" alt="" /></p>
+                <p>A child dribbles the ball and breaks the opponent’s defence and now he/she is in front of the goalkeeper and has to resolve the situation in a few milliseconds.</p>
+<p>The player misses. Is it bad?. The player scores. Is it good?.</p>
+<p>There are countless situations like this in a game like a football. Situations that not only belong to the game itself but also about the relationship with teammates, adversity, and authority, just to mention a few.</p>
 
 <p>From the sideline, adults watch and guide the children playing the game and after every situation, we may wonder what is the role of the adult after the match for each case? Should the adult intervene or not? For example, should we point out what is the right way to solve the problem? Should we keep silent and let the child figure it out on his/her own? Should we think nothing of the issue because is just a game?</p>
-
 <p>In <em><a href="https://www.youtube.com/watch?v=cPrdgWwbGMQ">Conversations about the Future</a>,</em> Pep Guardiola says:</p>
-
 <blockquote>
-  <p>Sports were the most useful learning tool that I had as a child. Through Sports, I learned to accept defeat, I learned there are others better than myself, I learned to come back after defeats, and I learned that coach may say that today I won’t play because I had bad behavior. I learned all the basic dynamics of human relationships.
-But I’ve not learned these by imposition but by observing, experimenting, or sharing situations. That’s why I think that group sports have more potential than individual sports. In group sports I’ve to interact with people.</p>
-
-  <p>Through sports, I learned that today I’ve to make an effort for you and I know that tomorrow you’ll make an effort for me because we want to achieve a common goal.</p>
+<p>Sports were the most useful learning tool that I had as a child. Through Sports, I learned to accept defeat, I learned there are others better than myself, I learned to come back after defeats, and I learned that coach may say that today I won’t play because I had bad behavior. I learned all the basic dynamics of human relationships. But I’ve not learned these by imposition but by observing, experimenting, or sharing situations. That’s why I think that group sports have more potential than individual sports. In group sports I’ve to interact with people.</p>
+<p>Through sports, I learned that today I’ve to make an effort for you and I know that tomorrow you’ll make an effort for me because we want to achieve a common goal.</p>
 </blockquote>
-
-<p>Football is just a game, but based on Pep’s experience and a few research publications, it’s also a <em>learning opportunity</em>.</p>
-
+<p>Football is just a game, but based on Pep’s experience and a few research publications, it’s also a <em>learning opportunity</em>.</p>
 <p>If we assume learning is an important criterion in junior coaching we may wonder if it is the only one or if we think in general terms, what is success.</p>
-
-<p><img src="/football/images/guardiola-trueba.jpg" alt="Sports were the most useful learning tool that I had as a child says Guardiola in Conversations about the Future" />
-<em>Sports were the most useful learning tool that I had as a child says Guardiola in Conversations about the Future</em></p>
-
-<h2 id="success">Success</h2>
-
-<p>One of the best ways I found to define what is success in junior sports is the one written by Denis Ford in <em>Coaching junior Soccer</em>. Ford defines a process as successful when the child returns the following year to keep playing.</p>
-
+<figure class="post__image"><img loading="lazy"  src="https://en.allende.nz/football/media/posts/2/guardiola-trueba.jpg" alt="Sports were the most useful learning tool that I had as a child says Guardiola in Conversations about the Future" width="2872" height="1620" sizes="100vw" srcset="https://en.allende.nz/football/media/posts/2/responsive/guardiola-trueba-xs.jpg 300w ,https://en.allende.nz/football/media/posts/2/responsive/guardiola-trueba-sm.jpg 480w ,https://en.allende.nz/football/media/posts/2/responsive/guardiola-trueba-md.jpg 768w ,https://en.allende.nz/football/media/posts/2/responsive/guardiola-trueba-lg.jpg 1024w ,https://en.allende.nz/football/media/posts/2/responsive/guardiola-trueba-xl.jpg 1360w ,https://en.allende.nz/football/media/posts/2/responsive/guardiola-trueba-2xl.jpg 1600w"><figcaption><em>Sports were the most useful learning tool that I had as a child says Guardiola in Conversations about the Future</em></figcaption></figure>
+<h2 id="success">Success<a class="anchor d-print-none" aria-hidden="true"><i class="fas fa-anchor"></i></a></h2>
+<p>One of the best ways I found to define what is success in junior sports is the one written by Denis Ford in <em>Coaching junior Soccer</em>. Ford defines a process as successful when the child returns the following year to keep playing.</p>
 <p>This is a recursive definition and encourages people to practice a sport for their entire life, which is a great ideal but to me, it feels a bit short because it doesn’t say much more. There are dynamics, experiences, and learnings that occur during different life stages of the players.</p>
-
 <p>A few years later, I had the chance to meet a group of young adults that have been playing together since childhood and I found that building lifelong friends through sports is a very noble goal.</p>
-
 <p>If a group of children practices football from the age of six to adulthood, they not only keep coming every year and they learn but they build lifelong friendships. What a better gift we can give to our children than teammates or friends for their entire life.</p>
-
 <p>Note that school provides a similar opportunity but there’s a key difference. Football is a game, everything occurs around a ludic experience whether a school is a more complex process.</p>
-
-<p>I omit the profession children will pick as adults because I don’t believe junior sports should pay attention on generating elite athetles. That’s an outcome, if it’s achieved, fine, if not fine too. There are several reasons for me to believe this, one of them is that <a href="https://sportnz.org.nz/media/2374/developing-participants-athletes-sports-leaders-oct-2017.pdf">Childhood success is not a reliable predictor of future success</a>.</p>
-
-<h2 id="expectations">Expectations</h2>
-
-<p>A football team is part of <a href="https://www.bnujfc.co.nz/faq">a club</a>, <a href="https://www.nzfootball.co.nz/juniors">a federation</a>, and a country. There are implicit and explicit codes that must be followed. The game occurs around the <a href="https://www.capitalfootball.org.nz/GET-INVOLVED-1/Competition-Information-1/Competition-Information-4">Law of the Game</a>, which has to be followed as well.</p>
-
-<p>Beyond these and if we get into the details of the coaching process, I believe there are two very specific points worth mentioning: <em>equal playing time</em> and <em>position rotation</em>.</p>
-
-<p>Unfortunately, I lived my childhood before Torbjørn Lorentzen wrote <a href="https://www.tandfonline.com/doi/full/10.1080/23265507.2016.1266694?scroll=top&amp;needAccess=true&amp;"><em>Allocation of playing time within team sports – a problem for discussion</em></a>, so when I was nine years old I had coaches that would left me on the bench for entire games or they would tell me not to bother to come to a match because I wouldn’t play. So, I don’t have to read books to know why is important to take care of every player’s playing time. On the other extreme, I’ve seen coaches taking a clock and making subs on the exact number of seconds that would dictate the maths.</p>
-
-<p>From the learning perspective, I believe the second criteria may be as bad as the first. It’s obvious that if a player doesn’t play, the player won’t learn and frustration may be high. Now, <em>playing time</em> is a bit more complex than time on the field, more explicitly, position matters. It’s not the same to play as a goalkeeper or striker or as a defender.</p>
-
+<p>I omit the profession children will pick as adults because I don’t believe junior sports should pay attention on generating elite athetles. That’s an outcome, if it’s achieved, fine, if not fine too. There are several reasons for me to believe this, one of them is that <a href="https://sportnz.org.nz/media/2374/developing-participants-athletes-sports-leaders-oct-2017.pdf">Childhood success is not a reliable predictor of future success</a>.</p>
+<h2 id="expectations">Expectations<a class="anchor d-print-none" aria-hidden="true"><i class="fas fa-anchor"></i></a></h2>
+<p>A football team is part of <a href="https://www.bnujfc.co.nz/faq">a club</a>, <a href="https://www.nzfootball.co.nz/juniors">a federation</a>, and a country. There are implicit and explicit codes that must be followed. The game occurs around the <a href="https://www.capitalfootball.org.nz/GET-INVOLVED-1/Competition-Information-1/Competition-Information-4">Law of the Game</a>, which has to be followed as well.</p>
+<p>Beyond these and if we get into the details of the coaching process, I believe there are two very specific points worth mentioning: <em>equal playing time</em> and <em>position rotation</em>.</p>
+<p>Unfortunately, I lived my childhood before Torbjørn Lorentzen wrote <a href="https://www.tandfonline.com/doi/full/10.1080/23265507.2016.1266694?scroll=top&amp;needAccess=true&amp;"><em>Allocation of playing time within team sports – a problem for discussion</em></a>, so when I was nine years old I had coaches that would left me on the bench for entire games or they would tell me not to bother to come to a match because I wouldn’t play. So, I don’t have to read books to know why is important to take care of every player’s playing time. On the other extreme, I’ve seen coaches taking a clock and making subs on the exact number of seconds that would dictate the maths.</p>
+<p>From the learning perspective, I believe the second criteria may be as bad as the first. It’s obvious that if a player doesn’t play, the player won’t learn and frustration may be high. Now, <em>playing time</em> is a bit more complex than time on the field, more explicitly, position matters. It’s not the same to play as a goalkeeper or striker or as a defender.</p>
 <p>Even at a young age, there are players with a predisposition to different positions. A goalkeeper, for example, is the last in the line. A goalkeeper mistake may easily end up in an opponent’s goal whereas a midfielder mistake may not be that serious in terms of the outcome. Then, it’s not the same to make a player play as a goalkeeper few minutes and then as a striker. And this is a very personal thing, every player is unique and will experience different positions in different ways.</p>
-
 <p>And it’s not as simple as keeping players in the same position because from the mathematical point of view, the combinatorial problem of the substitutions is so complex that is impossible to find a way to substitute players to guarantee equal playing time and at the same time, assure that players will play in the same positions during a match.</p>
-
 <p>Solution: fair playing time. I heard this phrase from NZ Men’s U17 Coach and Youth Talent Pathway Manager Martin Bullock and I adopted it as my own. In my own adaptation, the idea is to get as close as possible to equal playing time but keeping in mind players’ positions in such a way that if a player goes to the bench and returns in the same match, the player will play in the same position.</p>
-
-<p>Still is not a simple math problem to solve and that’s why I’ve been working during the last three years in <a href="https://astuten.io">a mobile app</a> to assist me with it, but that’s a story for another post.</p>
-
-<p>Back to expectations, the other criteria I mentioned before is position rotation. As I said before, I don’t think is a good idea to rotate positions within a match so I prefer to rotate just a few times during a season. Position rotation is a must. This is a long subject too and very qualified people  gave very good explanations about this. For now let’s just say that early specialisation is not good and every player should be able to play at least two or three different positions on the field.</p>
-
-<h2 id="context">Context</h2>
-
+<p>Still is not a simple math problem to solve and that’s why I’ve been working during the last three years in <a href="https://astuten.io/">a mobile app</a> to assist me with it, but that’s a story for another post.</p>
+<p>Back to expectations, the other criteria I mentioned before is position rotation. As I said before, I don’t think is a good idea to rotate positions within a match so I prefer to rotate just a few times during a season. Position rotation is a must. This is a long subject too and very qualified people gave very good explanations about this. For now let’s just say that early specialisation is not good and every player should be able to play at least two or three different positions on the field.</p>
+<h2 id="context">Context<a class="anchor d-print-none" aria-hidden="true"><i class="fas fa-anchor"></i></a></h2>
 <p>So many words and I still didn’t say much about the conversation after a child scores or misses in front of the goalpost.</p>
-
 <p>So, let’s put that event in context. The junior journey takes about seven years. Junior Football goes from six to thirteen years old. From seven to eight, the team has five players on the field. From nine to ten, seven. From eleven to twelve, nine. From thirteen years old, players play eleven a side.</p>
-
 <p>The journey is long. Does it matter if a child scores or misses a goal when the player is nine years old?</p>
-
-<p>To me it does because <em>football is the most important of the least important things</em> but what is the best intervention?. Well… if I could answer that question in a few words or even in one post, I wouldn’t need my football notes.</p>
-
+<p>To me it does because <em>football is the most important of the least important things</em> but what is the best intervention?. Well… if I could answer that question in a few words or even in one post, I wouldn’t need my football notes.</p>
 <p>To be continued.</p>
+<hr>
+<p>Drawing: <strong>A Team of Friends</strong> by <a href="https://www.artstation.com/pabloestevez">Pablo Estevez</a>. Idea by Roberto Allende.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>A common ground for amateur football</title>
+        <author>
+            <name>Roberto Allende</name>
+        </author>
+        <link href="https://en.allende.nz/football/a-common-ground-for-amateur-football/"/>
+        <id>https://en.allende.nz/football/a-common-ground-for-amateur-football/</id>
+        <media:content url="https://en.allende.nz/football/media/posts/1/tewhea.jpg" medium="image" />
+            <category term="Values"/>
+            <category term="Team Building"/>
 
-<hr />
-
-<p>Drawing: <strong>A Team of Friends</strong> by <a href="https://www.artstation.com/pabloestevez">Pablo Estevez</a>. Idea by Roberto Allende.</p>
-
-<hr />
-
-<div class="fb-comments" data-href="https://en.allende.nz/football/2022/06/07/expectations-for-a-junior-football-journey.html" data-width="720" data-numposts="10"></div>]]></content><author><name>Roberto Allende</name></author><category term="Coach" /><category term="Expectations" /><category term="Success" /><category term="JuniorPath" /><summary type="html"><![CDATA[A child dribbles the ball and breaks the opponent’s defence and now he/she is in front of the goalkeeper and has to resolve the situation in a few milliseconds. The player misses. Is it bad?. The player scores. Is it good?. There are countless situations like this in a game like a football. Situations that not only belong to the game itself but also about the relationship with teammates, adversity, and authority, just to mention a few.]]></summary></entry><entry><title type="html">A common ground for amateur football</title><link href="/football/2021/09/25/a-common-ground-for-amateur-football.html" rel="alternate" type="text/html" title="A common ground for amateur football" /><published>2021-09-25T00:00:00+12:00</published><updated>2021-09-25T00:00:00+12:00</updated><id>/football/2021/09/25/a-common-ground-for-amateur-football</id><content type="html" xml:base="/football/2021/09/25/a-common-ground-for-amateur-football.html"><![CDATA[<p>Many things make football a fun game. Bielsa would say it’s because <em>the weak can defeat the powerful</em>. While watching a Rugby match, my friends would say that it’s because <em>football rules are very simple and easy to understand</em>.  “El Diego” would say it’s because <em>life goes away</em>.</p>
-
+        <updated>2021-09-25T13:00:00+12:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://en.allende.nz/football/media/posts/1/tewhea.jpg" alt="" />
+                    <p>Many things make football a fun game. Bielsa would say it’s because <em>the weak can defeat the powerful</em>. While watching a Rugby match, my friends would say that it’s because <em>football rules are very simple and easy to understand</em>. “El Diego” would say it’s because <em>life goes away</em>.</p>
 <p>Whatever your favorite reason is, there’s always be a collective element in the game. Football is a collective sport and it requires a collective construction.</p>
 
-<!--more-->
-
-<hr />
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://en.allende.nz/football/media/posts/1/tewhea.jpg" class="type:primaryImage" alt="" /></p>
+                <p>Many things make football a fun game. Bielsa would say it’s because <em>the weak can defeat the powerful</em>. While watching a Rugby match, my friends would say that it’s because <em>football rules are very simple and easy to understand</em>. “El Diego” would say it’s because <em>life goes away</em>.</p>
+<p>Whatever your favorite reason is, there’s always be a collective element in the game. Football is a collective sport and it requires a collective construction.</p>
 
 <p>As a football enthusiast, such collective construction requires a common ground. If there is no consensus, conflict or frustration are the usual outcomes.</p>
-
-<h1 id="its-about-values">It’s about values</h1>
-<p>By common ground, I mean a set of values. These may be obvious or just ‘common sense’ but after many ‘after game’ conversations I found that the lack of consensus is very common among teams. 
-For that reason, I think it is important to write them down and talk about them. If we are playing together, and I hope we do, these are the ones I believe in. If you don’t agree with them, it’s fine, let’s talk about it and find new common ground.</p>
-
+<h1 id="its-about-values">It’s about values<a class="anchor d-print-none" aria-hidden="true"><i class="fas fa-anchor"></i></a></h1>
+<p>By common ground, I mean a set of values. These may be obvious or just ‘common sense’ but after many ‘after game’ conversations I found that the lack of consensus is very common among teams. For that reason, I think it is important to write them down and talk about them. If we are playing together, and I hope we do, these are the ones I believe in. If you don’t agree with them, it’s fine, let’s talk about it and find new common ground.</p>
 <p>This is my list. They’re just four:</p>
-
 <ol>
-  <li>Team must be inclusive</li>
-  <li>Don’t believe in good or bad, believe in growth</li>
-  <li>Mistakes are allowed</li>
-  <li>Play to win</li>
+<li>Team must be inclusive</li>
+<li>Don’t believe in good or bad, believe in growth</li>
+<li>Mistakes are allowed</li>
+<li>Play to win</li>
 </ol>
-
-<h2 id="1-a-team-must-be-inclusive">1. A team must be inclusive</h2>
+<h2 id="1-a-team-must-be-inclusive">1. A team must be inclusive<a class="anchor d-print-none" aria-hidden="true"><i class="fas fa-anchor"></i></a></h2>
 <p>Assuming that</p>
-
 <ul>
-  <li>#1: A football team needs at least eleven, seven, or five players on the field and,</li>
-  <li>#2: Every team has players with different levels.</li>
+<li>#1: A football team needs at least eleven, seven, or five players on the field and,</li>
+<li>#2: Every team has players with different levels.</li>
 </ul>
-
 <p>It simply does not make sense not to be inclusive. It’s a practical thing. Let me show the point with a few examples:</p>
-
-<p>Let’s say Team A from Hypergalactic Empire Club is lucky enough to gather 15 young and very talented players to play in the <em>Earth Gravity League</em> of Mars Amateur Football Association. Because this is a team just for
-stars, they exclude five players that want to join the team but they’re not good enough.</p>
-
+<p>Let’s say Team A from Hypergalactic Empire Club is lucky enough to gather 15 young and very talented players to play in the <em>Earth Gravity League</em> of Mars Amateur Football Association. Because this is a team just for stars, they exclude five players that want to join the team but they’re not good enough.</p>
 <p>Season stars, Team A wins five matches in a row by at least a ten goals of difference until injuries become a serious thing. So, by the sixth match, the team plays without substitution at all. It’s still a win but because of a new injury in the match, Team A has to play most of the game with ten players. Before the seventh match, two players, who are brothers, decide to take a job in Jupiter and now, Hypergalactic Empire Club’s Team A has to default games.</p>
-
-<p>Another example, it is common that junior leagues use five aside for a certain age, two years later, they use seven aside and later on nine aside, etc. Similar situation, if you stream <em>more gifted</em> players from the first year, you may experience similar problems as Hypergalactic Club has when the children grow and teams need two more players.</p>
-
+<p>Another example, it is common that junior leagues use five aside for a certain age, two years later, they use seven aside and later on nine aside, etc. Similar situation, if you stream <em>more gifted</em> players from the first year, you may experience similar problems as Hypergalactic Club has when the children grow and teams need two more players.</p>
 <p>In a sentence, I believe that football must be inclusive because a team cannot afford the luxury of excluding people.</p>
-
 <p>Of course, I believe being inclusive is the right thing to do but my point is that even from a pragmatic point of view it doesn’t make sense not to be.</p>
-
-<h2 id="2-dont-believe-in-good-or-bad-believe-in-growth">2. Don’t believe in good or bad, believe in growth</h2>
-
+<h2 id="2-dont-believe-in-good-or-bad-believe-in-growth">2. Don’t believe in good or bad, believe in growth<a class="anchor d-print-none" aria-hidden="true"><i class="fas fa-anchor"></i></a></h2>
 <p>A professional team needs good and very talented players to win the Champions. If a coach doesn’t win matches, the coach will be sacked. Then winning is a must. The job of a lot of people depends on it.</p>
-
-<p>Amateur football is different. At least, in theory, nobody will be fired if a team doesn’t win. It may not be fun and you may lose players if you don’t win <strong>but</strong> if there’s growth you may not win today
-but eventually, you will and the best thing, the team will hold together even with bad scores.</p>
-
-<p>Growth is a mindset. It’s about believing that anyone can improve. Bad or good is a mindset too, it’s called the <em>fixed mindset</em>, you are either good or bad. In the fixed mindset, imperfections are shameful.
-The growth mindset says all of these things can be developed. All — you, teammates — are capable of growth and change.</p>
-
-<p><img src="/football/images/mindset.jpg" alt="Change your mindset poster from Brooklyn Primary School" />
-<em>Change your mindset poster from Brooklyn Primary School in Wellington, NZ</em></p>
-
-<p>The mindset concept is not something new and there are plenty of people who researched and wrote about this topic. Just to mention one, <a href="https://www.brainpickings.org/2014/01/29/carol-dweck-mindset/">Maria Popova’s brainpickings</a> is a very quick introduction to the topic.</p>
-
-<h2 id="3-mistakes-are-allowed">3. Mistakes are allowed</h2>
-
+<p>Amateur football is different. At least, in theory, nobody will be fired if a team doesn’t win. It may not be fun and you may lose players if you don’t win <strong>but</strong> if there’s growth you may not win today but eventually, you will and the best thing, the team will hold together even with bad scores.</p>
+<p>Growth is a mindset. It’s about believing that anyone can improve. Bad or good is a mindset too, it’s called the <em>fixed mindset</em>, you are either good or bad. In the fixed mindset, imperfections are shameful. The growth mindset says all of these things can be developed. All — you, teammates — are capable of growth and change.</p>
+<figure ><figure class="post__image post__image--center"><img loading="lazy"  src="https://en.allende.nz/football/media/posts/1/mindset-2.jpg" alt="" width="2461" height="2182" sizes="100vw" srcset="https://en.allende.nz/football/media/posts/1/responsive/mindset-2-xs.jpg 300w ,https://en.allende.nz/football/media/posts/1/responsive/mindset-2-sm.jpg 480w ,https://en.allende.nz/football/media/posts/1/responsive/mindset-2-md.jpg 768w ,https://en.allende.nz/football/media/posts/1/responsive/mindset-2-lg.jpg 1024w ,https://en.allende.nz/football/media/posts/1/responsive/mindset-2-xl.jpg 1360w ,https://en.allende.nz/football/media/posts/1/responsive/mindset-2-2xl.jpg 1600w"></figure>
+<figcaption >
+<p><em>Change your mindset poster from Brooklyn Primary School in Wellington, NZ</em></p>
+</figcaption>
+</figure>
+<p> </p>
+<p>The mindset concept is not something new and there are plenty of people who researched and wrote about this topic. Just to mention one, <a href="https://www.brainpickings.org/2014/01/29/carol-dweck-mindset/">Maria Popova’s brainpickings</a> is a very quick introduction to the topic.</p>
+<h2 id="3-mistakes-are-allowed">3. Mistakes are allowed<a class="anchor d-print-none" aria-hidden="true"><i class="fas fa-anchor"></i></a></h2>
 <p>If you believe in growth, mistakes must be allowed. A mistake is a great teacher. Sometimes is the only way to learn.</p>
-
-<h2 id="4-play-to-win">4. Play to win</h2>
-
-<p>In a sports game, the participant must stretch his/her skills to meet the challenge provided by the skills of the opponent. The roots of the word “compete” are the Latin <em>con petire</em>, which meant <em>to seek together.</em> What each person seeks is to actualize his/her potential.</p>
-
+<h2 id="4-play-to-win">4. Play to win<a class="anchor d-print-none" aria-hidden="true"><i class="fas fa-anchor"></i></a></h2>
+<p>In a sports game, the participant must stretch his/her skills to meet the challenge provided by the skills of the opponent. The roots of the word “compete” are the Latin <em>con petire</em>, which meant <em>to seek together.</em> What each person seeks is to actualize his/her potential.</p>
 <p>Leaving the outcome aside means quitting the adventure to seek individual and collective potential.</p>
-
-<p>I’ve met coaches, especially in the junior space, that <em>hide</em> the score from children because they don’t want to expose them to <em>toxic</em> situations. I agree that if players are not concerned about the score it doesn’t make sense to push them, but if they are aware, I think it is essential to take it as part of the game. Outcomes are a useful learning tool. It gives purpose to the game. It creates a sense of urgency.  It helps to learn how to deal with frustration. It helps players and coaches to be better and push boundaries.</p>
-
+<p>I’ve met coaches, especially in the junior space, that <em>hide</em> the score from children because they don’t want to expose them to <em>toxic</em> situations. I agree that if players are not concerned about the score it doesn’t make sense to push them, but if they are aware, I think it is essential to take it as part of the game. Outcomes are a useful learning tool. It gives purpose to the game. It creates a sense of urgency. It helps to learn how to deal with frustration. It helps players and coaches to be better and push boundaries.</p>
 <p>And lastly, it creates situations where we may make mistakes and if we do, we learn.</p>
-
-<hr />
-
-<p><img src="/football/images/first-post-comments.jpg" alt="Comments in Disqus" /></p>
-
-<div class="fb-comments" data-href="https://en.allende.nz/football/2021/09/25/a-common-ground-for-amateur-football.html" data-width="720" data-numposts="10"></div>]]></content><author><name>Roberto Allende</name></author><category term="TeamBuilding" /><category term="Values" /><summary type="html"><![CDATA[Many things make football a fun game. Bielsa would say it’s because the weak can defeat the powerful. While watching a Rugby match, my friends would say that it’s because football rules are very simple and easy to understand. “El Diego” would say it’s because life goes away. Whatever your favorite reason is, there’s always be a collective element in the game. Football is a collective sport and it requires a collective construction.]]></summary></entry></feed>
+<figure class="post__image"><img loading="lazy"  src="https://en.allende.nz/football/media/posts/1/Screenshot-2024-04-14-at-15.03.00.png" alt="" width="1714" height="430" sizes="100vw" srcset="https://en.allende.nz/football/media/posts/1/responsive/Screenshot-2024-04-14-at-15.03.00-xs.png 300w ,https://en.allende.nz/football/media/posts/1/responsive/Screenshot-2024-04-14-at-15.03.00-sm.png 480w ,https://en.allende.nz/football/media/posts/1/responsive/Screenshot-2024-04-14-at-15.03.00-md.png 768w ,https://en.allende.nz/football/media/posts/1/responsive/Screenshot-2024-04-14-at-15.03.00-lg.png 1024w ,https://en.allende.nz/football/media/posts/1/responsive/Screenshot-2024-04-14-at-15.03.00-xl.png 1360w ,https://en.allende.nz/football/media/posts/1/responsive/Screenshot-2024-04-14-at-15.03.00-2xl.png 1600w"></figure>
+            ]]>
+        </content>
+    </entry>
+</feed>
